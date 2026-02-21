@@ -1,12 +1,12 @@
 export const siteConfig = {
-  name: "Perfect Coaching Classes",
-  address: "C-13, Iswar Sankul, Behind Regimental Plaza, Bytco Point, Nashik Road, Nashik-422101",
-  phone: "+91 98226 61307",
+  name: "Guruji Academy",
+  address: "Bytco Point, 2nd Floor, Pratik Arcade, opp. to Khan Petrol Pump, Nashik Road, Nashik, Maharashtra 422101, India",
+  phone: "+919272053369",
   rating: 4.8,
-  whatsapp: "919822661307",
+  whatsapp: "919272053369",
   
   hero: {
-    title: "Perfect Coaching Classes",
+    title: "Guruji Academy",
     subtitle: "Excellence in Education",
     description: "Empowering students with quality education and personalized guidance for academic success.",
     cta1: "Enroll Now",
@@ -30,7 +30,7 @@ export const siteConfig = {
   
   about: {
     title: "About Us",
-    description: "Perfect Coaching Classes is dedicated to providing high-quality education with a focus on individual student growth. Our experienced faculty and proven teaching methods ensure students achieve their academic goals."
+    description: "Guruji Academy is dedicated to providing high-quality education with a focus on individual student growth. Our experienced faculty and proven teaching methods ensure students achieve their academic goals."
   },
   
   courses: [
